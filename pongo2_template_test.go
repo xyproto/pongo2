@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"errors"
-	"github.com/flosch/pongo2"
+	"github.com/xyproto/pongo2"
 )
 
 var adminList = []string{"user2"}
